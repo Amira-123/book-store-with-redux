@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "learn react",
+      "description": "learn react from scratch",
+      "price": 30
+    },
+    {
+      "id": 2,
+      "title": "learn Angular",
+      "description": "learn Angular from scratch",
+      "price": 30
+    }
+  ]
+}
